@@ -1,0 +1,36 @@
+.expenses-list{
+    list-style-type: none;
+    padding: 0;
+}
+
+.expenses-list__fallback{
+    width: 15rem;
+    height: 2.5rem;
+    margin: auto;
+    padding: 0.5rem;
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color: #40005d;
+    border-radius: 7.5px;
+    border: solid white 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.expenses-list__one{
+    width: 28.5rem;
+    height: 2.5rem;
+    margin: auto;
+    padding: 0.5rem;
+    font-size: x-large;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    background-color: #40005d;
+    border-radius: 7.5px;
+    border: solid white 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
